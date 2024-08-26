@@ -20,3 +20,11 @@ The dataset currently consists of the following classes, with each class contain
 1. **Normal X-ray**
 2. **Viral Pneumonia X-ray**
 3. **Bacterial Pneumonia X-ray
+
+## Model Weights
+
+The trained model weights can be downloaded from the following link:
+
+[Download Weights]([https://your-shareable-link-here](https://drive.google.com/file/d/1mP1qjUuN0-lihfaP3UD-AqLoGko85EAC/view?usp=sharing))
+
+After downloading, place the weights file in the `models/` directory before running the prediction or evaluation scripts.
